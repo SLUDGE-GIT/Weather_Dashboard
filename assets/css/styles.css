@@ -1,0 +1,34 @@
+.title{
+    height: 80px;
+    background-color: rgb(59, 59, 59);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    
+}
+
+.citySearchContainer{
+    background-color:rgb(231, 231, 231);
+    font-size: 18px;
+}
+
+.city{
+
+    cursor: pointer;
+
+}
+  
+/* clear form button */
+#clearBtn{
+    
+    color: rgb(255, 255, 255);
+
+}
+
+    /* forecast container */
+#forecast{
+    /* width: 125px; */
+    text-align: center;
+    color: rgb(255, 255, 255);
+    /* padding: 5px; */
+    border-radius: 10px; 
+}
