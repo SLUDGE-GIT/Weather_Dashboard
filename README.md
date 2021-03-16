@@ -6,7 +6,7 @@ this project also has the implementation and use of Bootstrap, AJAX / jquery , a
 -----------------------------------------------------------------------------------------------------------------------------
 
 github pages : https://sludge-git.github.io/Weather_Dashboard/
-github repo : 
+github repo : https://github.com/SLUDGE-GIT/Weather_Dashboard
 
 -----------------------------------------------------------------------------------------------------------------------------
 
