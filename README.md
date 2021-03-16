@@ -1,5 +1,28 @@
 # Weather_Dashboard
-A web app that displays the weather in your area
+A web app that displays the weather and five-day forecast in your city or any other city you would like to search in the US!
+APIS used were : https://openweathermap.org/api
+this project also has the implementation and use of Bootstrap, AJAX / jquery , and FontAwesome for the search button icon.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+github pages : https://sludge-git.github.io/Weather_Dashboard/
+github repo : 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
