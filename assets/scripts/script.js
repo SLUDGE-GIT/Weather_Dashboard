@@ -236,9 +236,10 @@ $(document).ready(function () {
 function clearForm(){
 
 localStorage.clear();
-window.location.reload();
 
-};
+window.location.reload(); // this should work?? dunno why it's not
+
+}
 
 
 
