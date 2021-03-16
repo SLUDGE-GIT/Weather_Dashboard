@@ -237,7 +237,7 @@ function clearForm(){
 
 localStorage.clear();
 
-window.location.reload(); // this should work?? dunno why it's not
+window.location.reload(); 
 
 }
 
